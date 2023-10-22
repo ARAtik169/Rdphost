@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="http://10.20.30.40/img/NZvsAFG_1.png" group-title="Sport",ESPN
+http://10.20.30.30:8888/LiveEvent-1/video.m3u8
+#EXTINF:-1 tvg-name="A SPORT" tvg-logo="http://10.20.30.40/img/NZvsAFG_2.png" group-title="Sport",A SPORT
+http://10.20.30.30:8888/LiveEvent-2/video.m3u8
+#EXTINF:-1 tvg-name="Fox HD" tvg-logo="http://10.20.30.40/img/cwc_100.png" group-title="Sport",Fox HD
+http://10.20.30.30:8888/LiveEvent-3/video.m3u8
+#EXTINF:-1 tvg-name="S Cricket" tvg-logo="http://10.20.30.40/img/LiveEvent-1.png" group-title="Sport",S Cricket
+http://10.20.30.30:8888/LiveEvent-4/video.m3u8
+#EXTINF:-1 tvg-name="Ten Sport" tvg-logo="http://10.20.30.40/img/LiveEvent-2.png" group-title="Sport",Ten Sport
+http://10.20.30.30:8888/LiveEvent-5/video.m3u8
+#EXTINF:-1 tvg-name="News" tvg-logo="http://10.20.30.40/img/News.png" group-title="News",News
+http://10.20.30.30:8888/LiveEvent-6/video.m3u8
+#EXTINF:-1 tvg-name="Somoy Tv" tvg-logo="http://10.20.30.40/img/News.png" group-title="News",Somoy Tv
+https://somoy.jaagobd.com:444/somoy/somoyt000011226615544544.stream/chunks.m3u8
